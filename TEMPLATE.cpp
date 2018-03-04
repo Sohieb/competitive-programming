@@ -5,6 +5,7 @@ using namespace __gnu_cxx;
 
 typedef double db;
 typedef long long ll;
+typedef pair<int,int> ii;
 
 #define F        first
 #define S        second

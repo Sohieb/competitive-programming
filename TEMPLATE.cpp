@@ -30,8 +30,7 @@ int main() {
   freopen("in.txt", "r", stdin);
 //freopen("out.txt", "w", stdout);
 #endif
+	
 
-
-
-  return 0;
+	return 0;
 }

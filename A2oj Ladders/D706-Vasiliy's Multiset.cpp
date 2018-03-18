@@ -85,8 +85,8 @@ int findMax(string str){
 
 int main() {
 #ifndef ONLINE_JUDGE
-  freopen("in.txt", "r", stdin);
-//freopen("out.txt", "w", stdout);
+    freopen("in.txt", "r", stdin);
+    //freopen("out.txt", "w", stdout);
 #endif
     init();
     insert(conv(0));

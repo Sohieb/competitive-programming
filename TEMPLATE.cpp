@@ -20,7 +20,7 @@ typedef unsigned long long ull;
 #define rall(x)    x.rbegin(),x.rend()
 #define rep(i, n)  for(int i = 0; i < n; ++i)
 
-const db eps = 1e-12;
+const db eps = 1e-9;
 const db pi = acos(-1);
 const int INF = 0x3f3f3f3f;
 const ll LL_INF = 0x3f3f3f3f3f3f3f3f;
@@ -34,6 +34,5 @@ int main() {
     //freopen("out.txt", "w", stdout);
 #endif
 	
-
 	return 0;
 }

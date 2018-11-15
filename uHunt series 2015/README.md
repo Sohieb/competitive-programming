@@ -17,9 +17,9 @@
 |  | Problem  | Solution |
 | --- | --- | --- |
 | 1 | [946 - A Pile of Boxes](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=887)  | Not Solved Yet |
-| 2 | [12662 - Good Teacher](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4400)  | Not Solved Yet |
+| 2 | [12662 - Good Teacher](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4400)  | [code](https://github.com/Sohieeb/competitive-programming/blob/master/uHunt%20series%202015/Session%202%20(Data%20Structures%20and%20Libraries)/12662%20-%20Good%20Teacher.cpp) |
 | 3 | [512 - Spreadsheet Tracking](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=453)  | Not Solved Yet |
-| 4 | [12667 - Last Blood](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4405)  | Not Solved Yet |
+| 4 | [12667 - Last Blood](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4405)  | [code](https://github.com/Sohieeb/competitive-programming/blob/master/uHunt%20series%202015/Session%202%20(Data%20Structures%20and%20Libraries)/12667%20-%20Last%20Blood.cpp) |
 | 5 | [12269 - Lawn mower](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3421)  | Not Solved Yet |
 | 6 | [12720 - Algorithm of Phil](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4572)  | Not Solved Yet |
 | 7 | [10145 - Lock Manager](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1086)  | Not Solved Yet |

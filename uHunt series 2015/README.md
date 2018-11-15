@@ -2,12 +2,12 @@
 ### Session #1 - Warming Up - Ad Hoc Problems
 |  | Problem  | Solution |
 | --- | --- | --- |
-| 1 | [1585 - Score](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4460)  | Not Solved Yet |
-| 2 | [12545 - Bits Equalizer](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3990)  | Not Solved Yet |
-| 3 | [11013 - Get Straight](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1954)  | Not Solved Yet |
-| 4 | [1586 - Molar mass](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4461)  | Not Solved Yet |
-| 5 | [11744 - Parallel Carry Adder](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2844)  | Not Solved Yet |
-| 6 | [12808 - Banning Balconing](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4673)  | Not Solved Yet |
+| 1 | [1585 - Score](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4460)  | [code](https://github.com/Sohieeb/competitive-programming/blob/master/uHunt%20series%202015/Session%201%20(Warming%20Up%20-%20Ad%20Hoc%20Problems)/1585%20-%20Score.cpp) |
+| 2 | [12545 - Bits Equalizer](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3990)  | [code](https://github.com/Sohieeb/competitive-programming/blob/master/uHunt%20series%202015/Session%201%20(Warming%20Up%20-%20Ad%20Hoc%20Problems)/12545%20-%20Bits%20Equalizer.cpp) |
+| 3 | [11013 - Get Straight](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1954)  | [code](https://github.com/Sohieeb/competitive-programming/blob/master/uHunt%20series%202015/Session%201%20(Warming%20Up%20-%20Ad%20Hoc%20Problems)/11013%20-%20Get%20Straight.cpp) |
+| 4 | [1586 - Molar mass](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4461)  | [code](https://github.com/Sohieeb/competitive-programming/blob/master/uHunt%20series%202015/Session%201%20(Warming%20Up%20-%20Ad%20Hoc%20Problems)/1586%20-%20Molar%20mass.cpp) |
+| 5 | [11744 - Parallel Carry Adder](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2844)  | [code](https://github.com/Sohieeb/competitive-programming/blob/master/uHunt%20series%202015/Session%201%20(Warming%20Up%20-%20Ad%20Hoc%20Problems)/11744%20-%20Parallel%20Carry%20Adder.cpp) |
+| 6 | [12808 - Banning Balconing](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4673)  | [code](https://github.com/Sohieeb/competitive-programming/blob/master/uHunt%20series%202015/Session%201%20(Warming%20Up%20-%20Ad%20Hoc%20Problems)/12808%20-%20Banning%20Balconing.cpp) |
 | 7 | [1091 - Barcodes](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3532)  | Not Solved Yet |
 | 8 | [11279 - Keyboard Comparison](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2254)  | Not Solved Yet |
 | 9 | [12822 - Extraordinarily large LED](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4687)  | Not Solved Yet |

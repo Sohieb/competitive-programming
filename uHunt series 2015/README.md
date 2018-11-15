@@ -16,16 +16,16 @@
 ### Session #2 - Data Structures and Libraries
 |  | Problem  | Solution |
 | --- | --- | --- |
-| 1 | []()  | Not Solved Yet |
-| 2 | []()  | Not Solved Yet |
-| 3 | []()  | Not Solved Yet |
-| 4 | []()  | Not Solved Yet |
-| 5 | []()  | Not Solved Yet |
-| 6 | []()  | Not Solved Yet |
-| 7 | []()  | Not Solved Yet |
-| 8 | []()  | Not Solved Yet |
-| 9 | []()  | Not Solved Yet |
-| 10 | []()  | Not Solved Yet |
+| 1 | [946 - A Pile of Boxes](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=887)  | Not Solved Yet |
+| 2 | [12662 - Good Teacher](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4400)  | Not Solved Yet |
+| 3 | [512 - Spreadsheet Tracking](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=453)  | Not Solved Yet |
+| 4 | [12667 - Last Blood](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4405)  | Not Solved Yet |
+| 5 | [12269 - Lawn mower](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3421)  | Not Solved Yet |
+| 6 | [12720 - Algorithm of Phil](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4572)  | Not Solved Yet |
+| 7 | [10145 - Lock Manager](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1086)  | Not Solved Yet |
+| 8 | [10887 - Concatenation of Languages](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1828)  | Not Solved Yet |
+| 9 | [1329 - Corporative Network](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4075)  | Not Solved Yet |
+| 10 | [11423 - Cache Simulator](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2418)  | Not Solved Yet |
 
 ### Session #3 - Complete Search, Divide and Conquer, Greedy
 |  | Problem  | Solution |

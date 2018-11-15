@@ -30,16 +30,17 @@
 ### Session #3 - Complete Search, Divide and Conquer, Greedy
 |  | Problem  | Solution |
 | --- | --- | --- |
-| 1 | []()  | Not Solved Yet |
-| 2 | []()  | Not Solved Yet |
-| 3 | []()  | Not Solved Yet |
-| 4 | []()  | Not Solved Yet |
-| 5 | []()  | Not Solved Yet |
-| 6 | []()  | Not Solved Yet |
-| 7 | []()  | Not Solved Yet |
-| 8 | []()  | Not Solved Yet |
-| 9 | []()  | Not Solved Yet |
-| 10 | []()  | Not Solved Yet |
+| 1 | [10942 - Can of Beans](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1883)  | Not Solved Yet |
+| 2 | [12844 - Outwitting the Weighing Machine](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4709)  | Not Solved Yet |
+| 3 | [10997 - Medals](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1938)  | Not Solved Yet |
+| 4 | [418 - Molecules](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=359)  | Not Solved Yet |
+| 5 | [11659 - Informants](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2706)  | Not Solved Yet |
+| 6 | [12840 - The Archery Puzzle](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4705)  | Not Solved Yet |
+| 7 | [11052 - Economic phone calls](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1993)  | Not Solved Yet |
+| 8 | [11095 - Tabriz City](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2036)  | Not Solved Yet |
+| 9 | [12791 - Lap](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4656)  | Not Solved Yet |
+| 10 | [12834 - Extreme Terror](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4699)  | Not Solved Yet |
+| 11 | [10821 - Constructing BST](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1762)  | Not Solved Yet |
 
 ### Session #4 - Dynamic Programming 1 (Classics)
 |  | Problem  | Solution |

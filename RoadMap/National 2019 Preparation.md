@@ -3,7 +3,7 @@
 ### Things to Solve
 | Goal | Done  | Ramining | Rate |
 | --- | --- | --- | --- |
-| Earn minimum 100+ Point on Kattis | 11.5 | 100 | 11.5 % |
+| Earn minimum 100+ Point on Kattis | 14.5 | 100 | 14.5 % |
 | Do 10+ Solo Code Sprint on CF | 0 | 10 | 0 % |
 | Solve 20+ Problems C div2 on CF | 0 | 20 | 0 % |
 | Solve 10+ Problems D div2 on CF | 0 | 10 | 0 % |

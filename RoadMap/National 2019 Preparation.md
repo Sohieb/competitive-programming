@@ -5,7 +5,7 @@
 | --- | --- | --- | --- |
 | Earn minimum 100+ Point on Kattis | 32.7 | 100 | 32.7 % |
 | Do 10+ Solo Code Sprint on CF | 0 | 10 | 0 % |
-| Solve 20+ Problems C div2 on CF | 0 | 20 | 0 % |
+| Solve 20+ Problems C div2 on CF | 1 | 20 | 5 % |
 | Solve 10+ Problems D div2 on CF | 0 | 10 | 0 % |
 | Solve 5+ Problems E div2 on CF | 0 | 5 | 0 % |
 

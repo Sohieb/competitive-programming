@@ -8,6 +8,7 @@
 | Solve 20+ Problems C div2 on CF | 1 | 20 | 5 % |
 | Solve 10+ Problems D div2 on CF | 0 | 10 | 0 % |
 | Solve 5+ Problems E div2 on CF | 0 | 5 | 0 % |
+| Do 5+ Team Contests (ICPC style) | 0 | 5 | 0 % |
 
 ### Things to Recover
 | Topic | Done  | Notes |

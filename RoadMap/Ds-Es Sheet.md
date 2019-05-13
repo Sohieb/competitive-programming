@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | 0 | E - [Ciel the Commander](http://codeforces.com/problemset/problem/321/C) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/C321-Ciel%20the%20Commander.cpp) |  Problem involves Tree Centroid, Divide and Conquer - Looked up the tutorials and got it from 4th submission :( |
 | 1 | D - [Eternal Victory](http://codeforces.com/problemset/problem/61/D) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/D61-Eternal%20Victory.cpp) | Problem involces dfs and similar, Trees - Solved from 1st submission :) |
-| 2 | D - [Xenia and Hamming](http://codeforces.com/problemset/problem/356/B) | :x: | - |
+| 2 | D - [Xenia and Hamming](http://codeforces.com/problemset/problem/356/B) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/B356-Xenia%20and%20Hamming.cpp) | - |
 | 3 | E - [Iahub and Permutations](http://codeforces.com/problemset/problem/340/E) | :x: | - |
 | 4 | E - [Kalila and Dimna in the Logging Industry](http://codeforces.com/problemset/problem/319/C) | :x: | - |
 | 5 | D - [Yaroslav and Time](http://codeforces.com/problemset/problem/301/B) | :x: | - |

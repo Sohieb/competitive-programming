@@ -2,7 +2,7 @@
 
 | # | Problem  | Status | Notes |
 | --- | --- | --- | --- |
-| 0 | E - [Ciel the Commander](http://codeforces.com/problemset/problem/321/C) | :x: | - |
+| 0 | E - [Ciel the Commander](http://codeforces.com/problemset/problem/321/C) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/C321-Ciel%20the%20Commander.cpp) | - |
 | 1 | D - [Eternal Victory](http://codeforces.com/problemset/problem/61/D) | :x: | - |
 | 2 | D - [Xenia and Hamming](http://codeforces.com/problemset/problem/356/B) | :x: | - |
 | 3 | E - [Iahub and Permutations](http://codeforces.com/problemset/problem/340/E) | :x: | - |

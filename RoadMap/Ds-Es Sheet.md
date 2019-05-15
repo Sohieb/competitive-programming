@@ -5,7 +5,7 @@
 | 0 | E - [Ciel the Commander](http://codeforces.com/problemset/problem/321/C) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/C321-Ciel%20the%20Commander.cpp) |  Problem involves Tree Centroid, Divide and Conquer - Looked up the tutorials and got it from 4th submission :( |
 | 1 | D - [Eternal Victory](http://codeforces.com/problemset/problem/61/D) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/D61-Eternal%20Victory.cpp) | Problem involces dfs and similar, Trees - Solved from 1st submission :) |
 | 2 | D - [Xenia and Hamming](http://codeforces.com/problemset/problem/356/B) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/B356-Xenia%20and%20Hamming.cpp) | Problem involves number theory - needed hint from editorials and got it from 1st submission |
-| 3 | E - [Iahub and Permutations](http://codeforces.com/problemset/problem/340/E) | :x: | - |
+| 3 | E - [Iahub and Permutations](http://codeforces.com/problemset/problem/340/E) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/E340-Iahub%20and%20Permutations.cpp) | Problem involves Inclusion-Exclusion principle and can be done using dp as well - Needed to look up the editorials and also read e-maxx article about inclusion-exclusion then solved from first submission |
 | 4 | E - [Kalila and Dimna in the Logging Industry](http://codeforces.com/problemset/problem/319/C) | :x: | - |
 | 5 | D - [Yaroslav and Time](http://codeforces.com/problemset/problem/301/B) | :x: | - |
 | 6 | E - [Polo the Penguin and XOR operation](http://codeforces.com/problemset/problem/288/C) | :x: | - |

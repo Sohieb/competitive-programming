@@ -102,3 +102,13 @@
 | 97 | E - [Coin Troubles](http://codeforces.com/problemset/problem/283/C) | :x: | - |
 | 98 | D - [Set of Points](http://codeforces.com/problemset/problem/277/B) | :x: | - |
 | 99 | E - [Little Girl and Problem on Trees](http://codeforces.com/problemset/problem/276/E) | :x: | - |
+
+### Extra Problems I needed to solve to master the new topics I encounter while solving the main sheet
+| # | Problem  | Status | Notes |
+| --- | --- | --- | --- |
+| 0 | - | - | - |
+| 1 | - | - | - |
+| 2 | - | - | - |
+| 3 | - | - | - |
+| 4 | - | - | - |
+| 5 | - | - | - |

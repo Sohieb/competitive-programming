@@ -106,7 +106,7 @@
 ### Extra Problems I needed to solve to master the new topics I encounter while solving the main sheet
 | # | Problem  | Status | Notes |
 | --- | --- | --- | --- |
-| 0 | - | - | - |
+| 0 | E div1 - [The Fair Nut and Rectangles](https://codeforces.com/contest/1083/problem/E) | - | - |
 | 1 | - | - | - |
 | 2 | - | - | - |
 | 3 | - | - | - |

@@ -1,6 +1,9 @@
 # Regional Plan (90 Days Plan)
 
-| Day | Date  | Plan | Achieved | Notes |
+This page is to monitor my ICPC training for the next 90 days to prepare for the up comming ICPC regional contest.
+I will be updaing this page on daily basis with what I have achieved from the task assigned for that day.
+
+| Day | Date  | Task | Achieved | Notes |
 | --- | --- | --- | --- | --- |
 |	Day 1	|	01 Jul (Mon)	|	TODO	|	-	|	-	|
 |	Day 2	|	02 Jul (Tue)	|	TODO	|	-	|	-	|

@@ -10,7 +10,7 @@ I will be updaing this page on daily basis with what I have achieved from the ta
 |	Day 3	|	03 Jul (Wed)	|	<ul><li>1 Code Sprint</li><li>3 CF Div2 C Problems (warm up)</li></ul>	|	-	|	-	|
 |	Day 4	|	04 Jul (Thu)	|	<ul><li>1 Code Sprint</li><li>3 Kattis Diff [3-4] Problems (warm up)</li></ul>	|	-	|	-	|
 |	Day 5	|	05 Jul (Fri)	|	<ul><li>1 Code Sprint</li><li>3 Kattis Diff [3-4] Problems (warm up)</li></ul>		|	-	|	-	|
-|	Day 6	|	06 Jul (Sat)	|	<ul><li>1 Code Sprint</li><li>3 Kattis Diff [3-4] Problems (warm up)</li></ul>		|	-	|	-	|
+|	Day 6	|	06 Jul (Sat)	|	<ul><li>1 Code Sprint</li><li>3 Kattis Diff [3-4] Problems (warm up)</li><li>1 Sheet Ds-Es Problem</li></ul>		|	-	|	-	|
 |	Day 7	|	07 Jul (Sun)	|	TODO	|	-	|	-	|
 |	Day 8	|	08 Jul (Mon)	|	TODO	|	-	|	-	|
 |	Day 9	|	09 Jul (Tue)	|	TODO	|	-	|	-	|

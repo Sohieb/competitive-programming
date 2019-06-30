@@ -5,12 +5,12 @@ I will be updaing this page on daily basis with what I have achieved from the ta
 
 | Day | Date  | Task | Achieved | Notes |
 | --- | --- | --- | --- | --- |
-|	Day 1	|	01 Jul (Mon)	|	TODO	|	-	|	-	|
-|	Day 2	|	02 Jul (Tue)	|	TODO	|	-	|	-	|
-|	Day 3	|	03 Jul (Wed)	|	TODO	|	-	|	-	|
-|	Day 4	|	04 Jul (Thu)	|	TODO	|	-	|	-	|
-|	Day 5	|	05 Jul (Fri)	|	TODO	|	-	|	-	|
-|	Day 6	|	06 Jul (Sat)	|	TODO	|	-	|	-	|
+|	Day 1	|	01 Jul (Mon)	|	<ul><li>1 Code Sprint</li><li>3 CF Div2 C Problems (warm up)</li></ul>	|	-	|	-	|
+|	Day 2	|	02 Jul (Tue)	|	<ul><li>1 Code Sprint</li><li>3 CF Div2 C Problems (warm up)	|	-	|	-	|
+|	Day 3	|	03 Jul (Wed)	|	<ul><li>1 Code Sprint</li><li>3 CF Div2 C Problems (warm up)	|	-	|	-	|
+|	Day 4	|	04 Jul (Thu)	|	<ul><li>1 Code Sprint</li><li>3 Kattis Diff [3-4] Problems (warm up)	|	-	|	-	|
+|	Day 5	|	05 Jul (Fri)	|	<ul><li>1 Code Sprint</li><li>3 Kattis Diff [3-4] Problems (warm up)		|	-	|	-	|
+|	Day 6	|	06 Jul (Sat)	|	<ul><li>1 Code Sprint</li><li>3 Kattis Diff [3-4] Problems (warm up)		|	-	|	-	|
 |	Day 7	|	07 Jul (Sun)	|	TODO	|	-	|	-	|
 |	Day 8	|	08 Jul (Mon)	|	TODO	|	-	|	-	|
 |	Day 9	|	09 Jul (Tue)	|	TODO	|	-	|	-	|

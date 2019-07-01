@@ -5,7 +5,7 @@ I will be updaing this page on daily basis with what I have achieved from the ta
 
 | Day | Date  | Task | Achieved | Notes |
 | --- | --- | --- | --- | --- |
-|	Day 1	|	01 Jul (Mon)	|	<ul><li>1 Code Sprint</li><li>3 CF Div2 C Problems (warm up)</li></ul>	|	-	|	-	|
+|	Day 1	|	01 Jul (Mon)	|	<ul><li>1 Code Sprint</li><li>3 CF Div2 C Problems (warm up)</li></ul>	|	<ul><li>1 CF Div2 C Problems (warm up)</li></ul>	|	-	|
 |	Day 2	|	02 Jul (Tue)	|	<ul><li>1 Code Sprint</li><li>3 CF Div2 C Problems (warm up)</li></ul>	|	-	|	-	|
 |	Day 3	|	03 Jul (Wed)	|	<ul><li>1 Code Sprint</li><li>3 CF Div2 C Problems (warm up)</li></ul>	|	-	|	-	|
 |	Day 4	|	04 Jul (Thu)	|	<ul><li>1 Code Sprint</li><li>3 Kattis Diff [3-4] Problems (warm up)</li></ul>	|	-	|	-	|

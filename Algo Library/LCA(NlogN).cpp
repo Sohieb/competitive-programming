@@ -28,6 +28,7 @@ const int mod = 1000 * 1000 * 1000 + 7;
 
 const int MAXN = 100005, MAXLG = 20;
 int par[MAXN][MAXLG]; // initially all -1
+int lg[MAXN];
 int h[MAXN];
 vector<int> adj[MAXN];
 
@@ -42,6 +43,14 @@ void dfs(int v, int p = -1) {
         if (u != p) dfs(u, v);
 }
 
+int getKthAncestor(int v, int k) {
+    while (k > 0) {
+        int x = k & -k;
+        k -= x;
+        u = par[u][lg[x]];
+    }
+}
+
 int LCA(int v, int u) {
     if (h[v] < h[u])
         swap(v, u);
@@ -54,6 +63,12 @@ int LCA(int v, int u) {
         if (par[v][i] != par[u][i])
             v = par[v][i], u = par[u][i];
     return par[v][0];
+}
+
+void computeLog() {
+    lg[0] = -1;
+    for (int i = 1; i < MAXN; ++i)
+        lg[i] = lg[i - 1] + !(i & (i - 1));
 }
 
 int main() {

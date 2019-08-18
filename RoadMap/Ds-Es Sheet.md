@@ -19,7 +19,7 @@
 | 14 | D - [Petya and His Friends](http://codeforces.com/problemset/problem/66/D) | :x: | - |
 | 15 | D - [How many trees?](http://codeforces.com/problemset/problem/9/D) | :x: | - |
 | 16 | E - [Strictly Positive Matrix](http://codeforces.com/problemset/problem/402/E) | :x: | - |
-| 17 | E - [On Changing Tree](http://codeforces.com/problemset/problem/396/C) | :x: | - |
+| 17 | E - [On Changing Tree](http://codeforces.com/problemset/problem/396/C) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/C396-On%20Changing%20Tree.cpp) | - |
 | 18 | E - [Watching Fireworks is Fun](http://codeforces.com/problemset/problem/372/C) | :x: | - |
 | 19 | E - [Valera and Queries](http://codeforces.com/problemset/problem/369/E) | :x: | - |
 | 20 | E - [Sereja and the Arrangement of Numbers](http://codeforces.com/problemset/problem/367/C) | :x: | - |

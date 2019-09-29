@@ -9,16 +9,16 @@
 | 4 | E - [Kalila and Dimna in the Logging Industry](http://codeforces.com/problemset/problem/319/C) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/C319-Kalila%20and%20Dimna%20in%20the%20Logging%20Industry.cpp) | Problem involves DP Optimization Convex-Hull Trick - I needed to study the topic for the first time and also solve other problems to master it (can be found in the table at the bottom) |
 | 5 | D - [Yaroslav and Time](http://codeforces.com/problemset/problem/301/B) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/B301-Yaroslav%20and%20Time.cpp) | Problem involves shortest path, can be solved using Dijkstra or Bellman-Form + Binary search - Solved by myself from 3rd submission due to wrong observation in the first two submissions |
 | 6 | E - [Polo the Penguin and XOR operation](http://codeforces.com/problemset/problem/288/C) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/C288-Polo%20the%20Penguin%20and%20XOR%20operation.cpp) | My solution to the problem (different from the editorials) involves Trie, where I need to query for every index what value will give the maximum XOR value with it - Solved from 2nd submit (without hints) because I forgot to change some value after debug |
-| 7 | E - [Blood Cousins](http://codeforces.com/problemset/problem/208/E) | :x: | - |
-| 8 | D - [Infinite Maze](http://codeforces.com/problemset/problem/196/B) | :x: | - |
-| 9 | E - [Compatible Numbers](http://codeforces.com/problemset/problem/165/E) | :x: | - |
-| 10 | D - [Suspects](http://codeforces.com/problemset/problem/156/B) | :x: | - |
-| 11 | D - [Help General](http://codeforces.com/problemset/problem/142/B) | :x: | - |
-| 12 | D - [Rectangle and Square](http://codeforces.com/problemset/problem/135/B) | :x: | - |
-| 13 | D - [Lucky Transformation](http://codeforces.com/problemset/problem/121/B) | :x: | - |
-| 14 | D - [Petya and His Friends](http://codeforces.com/problemset/problem/66/D) | :x: | - |
-| 15 | D - [How many trees?](http://codeforces.com/problemset/problem/9/D) | :x: | - |
-| 16 | E - [Strictly Positive Matrix](http://codeforces.com/problemset/problem/402/E) | :x: | - |
+| 7 | E - [Blood Cousins](http://codeforces.com/problemset/problem/208/E) | AC | - |
+| 8 | D - [Infinite Maze](http://codeforces.com/problemset/problem/196/B) | AC | - |
+| 9 | E - [Compatible Numbers](http://codeforces.com/problemset/problem/165/E) | AC | - |
+| 10 | D - [Suspects](http://codeforces.com/problemset/problem/156/B) | AC | - |
+| 11 | D - [Help General](http://codeforces.com/problemset/problem/142/B) | AC | - |
+| 12 | D - [Rectangle and Square](http://codeforces.com/problemset/problem/135/B) | AC | - |
+| 13 | D - [Lucky Transformation](http://codeforces.com/problemset/problem/121/B) | AC | - |
+| 14 | D - [Petya and His Friends](http://codeforces.com/problemset/problem/66/D) | AC | - |
+| 15 | D - [How many trees?](http://codeforces.com/problemset/problem/9/D) | AC | - |
+| 16 | E - [Strictly Positive Matrix](http://codeforces.com/problemset/problem/402/E) | AC | - |
 | 17 | E - [On Changing Tree](http://codeforces.com/problemset/problem/396/C) | [AC](https://github.com/Sohieeb/competitive-programming/blob/master/Codeforces/Sheet%20Ds%20-%20Es/C396-On%20Changing%20Tree.cpp) | - |
 | 18 | E - [Watching Fireworks is Fun](http://codeforces.com/problemset/problem/372/C) | :x: | - |
 | 19 | E - [Valera and Queries](http://codeforces.com/problemset/problem/369/E) | :x: | - |

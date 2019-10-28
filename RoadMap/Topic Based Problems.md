@@ -17,3 +17,15 @@
 - 609F - Frogs and mosquitoes
 - 594D - REQ
 - 455E - Function
+
+####Lazy Propagating:
+- 52C - Circular RMQ
+- 145E - Lucky Queries
+- 558E - A Simple Task
+- 240F - TorCoder
+- 446C - DZY Loves Fibonacci Numbers
+- 115E - Linear Kingdom Races
+- 438D - The Child and Sequence
+- 121E - Lucky Array
+- 610E - Alphabet Permutations
+- 580E - Kefa and Watch

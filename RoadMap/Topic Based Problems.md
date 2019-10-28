@@ -18,7 +18,7 @@
 - 594D - REQ
 - 455E - Function
 
-####Lazy Propagating:
+#### Lazy Propagating:
 - 52C - Circular RMQ
 - 145E - Lucky Queries
 - 558E - A Simple Task

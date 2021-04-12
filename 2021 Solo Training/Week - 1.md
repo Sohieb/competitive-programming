@@ -1,4 +1,4 @@
-## Week starts Monday 5th April
+## Week starts Monday 12th April
 ### Task: 30 Codeforces Problems with diff >= 1500
 | # | Problem  | Status | Notes |
 | --- | --- | --- | --- |

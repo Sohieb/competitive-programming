@@ -2,7 +2,7 @@
 ### Task: 30 Codeforces Problems with diff >= 1500
 | # | Problem  | Status | Notes |
 | --- | --- | --- | --- |
-| 0 | [Special Elements](https://codeforces.com/problemset/problem/1352/E) | :x: | - |
+| 0 | [Special Elements](https://codeforces.com/problemset/problem/1352/E) | [AC](https://codeforces.com/contest/1352/submission/117839277) | - |
 | 1 | [a-Good String](https://codeforces.com/problemset/problem/1385/D) | :x: | - |
 | 2 | [Nastya and Strange Generator](https://codeforces.com/problemset/problem/1340/A) | :x: | - |
 | 3 | [Cyclic Permutations](https://codeforces.com/problemset/problem/1391/C) | :x: | - |

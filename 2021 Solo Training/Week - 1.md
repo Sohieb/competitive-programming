@@ -3,7 +3,7 @@
 | # | Problem  | Status | Notes |
 | --- | --- | --- | --- |
 | 0 | [Special Elements](https://codeforces.com/problemset/problem/1352/E) | [AC](https://codeforces.com/contest/1352/submission/117839277) | - |
-| 1 | [a-Good String](https://codeforces.com/problemset/problem/1385/D) | :x: | - |
+| 1 | [a-Good String](https://codeforces.com/problemset/problem/1385/D) | [AC](https://codeforces.com/contest/1385/submission/120715245) | - |
 | 2 | [Nastya and Strange Generator](https://codeforces.com/problemset/problem/1340/A) | :x: | - |
 | 3 | [Cyclic Permutations](https://codeforces.com/problemset/problem/1391/C) | :x: | - |
 | 4 | [Balanced Bitstring](https://codeforces.com/problemset/problem/1404/A) | :x: | - |
